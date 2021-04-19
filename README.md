@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udhayakumar-Gj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
-- 💞️ I’m single
+
 
 
 <!---
