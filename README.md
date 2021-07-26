@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @udhayakumar-Gj
+- 👋 Hi, I’m udhayakumar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js
+- I am a Learner,Developer,Coder and student
 
 
 
